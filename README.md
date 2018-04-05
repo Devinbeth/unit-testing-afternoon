@@ -1,5 +1,3 @@
-<img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
-
 # Project Summary
 
 In this project, we'll learn about TDD ( test driven development ). Using Jest, we'll create Unit Tests for methods and properties inside of `cart.js`. After the Unit Tests are created, we'll create the solution for `cart.js` to make all the Unit Tests pass. The TDD approach can lead to more confidence that the code you create meets all technical requirements.
